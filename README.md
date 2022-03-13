@@ -5,4 +5,4 @@
   - QQ:81040295
 
 ## 目前的产品
-- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 系统过滤+爬虫 全套](https://github.com/redcomet88/movie-rec)
+- 1 [【2022年】【推荐算法+可视化】vue+flask 电影大数据源码 系统过滤+爬虫 全套](https://github.com/redcomet88/movie-rec)

@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @redcomet88
-- 👀 I’m interested in  Vue、Java、Python
-- 🌱 I’m currently learning  Flask 
+- 👋 Hi, 我是一个专注于算法+可视化的开发工程师
+- 👀 我擅长的语言有  Vue、Java、Python
+- 🌱 我主要专精的领域有 各类数据挖掘和数据分析算法、可视化等
 - 📫 How to reach me 
   - QQ:81040295
 
-<!---
-redcomet88/redcomet88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 目前的产品
+- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 系统过滤+爬虫 全套](https://github.com/redcomet88/movie-rec)

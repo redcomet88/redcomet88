@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Vue、Java、Python
 - 🌱 I’m currently learning  Flask 
 - 📫 How to reach me 
-  - QQ:626206333
+  - QQ:81040295
 
 <!---
 redcomet88/redcomet88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

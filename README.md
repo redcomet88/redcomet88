@@ -2,7 +2,7 @@
 - 👀 我擅长的语言有  Vue、Java、Python
 - 🌱 我主要专精的领域有 各类数据挖掘和数据分析算法、可视化等
 - 📫 How to reach me 
-  - QQ:81040295
+  - QQ:81040295  【加QQ注明是 Github来的， 另外源码有偿获取，白嫖党请自重】
   - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0)
 
 ## 目前的产品

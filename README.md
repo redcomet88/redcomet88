@@ -7,7 +7,7 @@
 ## 目前的产品
 ### python
 - 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://github.com/redcomet88/movie-rec)
-- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套] (https://github.com/redcomet88/job-rec)*
+- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套](https://github.com/redcomet88/job-rec)
 - 3 【推荐算法+可视化】vue+flask 汽车销售大数据源码 协同过滤+爬虫 全套 *（开发中）*
 - 4 【推荐算法+可视化】vue+flask 图书大数据源码 协同过滤+爬虫 全套 *（开发中）*
 - 5 【推荐算法+可视化】vue+flask 旅游大数据源码 协同过滤+爬虫 全套 *（设计中）*

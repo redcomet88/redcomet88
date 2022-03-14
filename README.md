@@ -3,11 +3,12 @@
 - 🌱 我主要专精的领域有 各类数据挖掘和数据分析算法、可视化等
 - 📫 How to reach me 
   - QQ:81040295
+  - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0)
 
 ## 目前的产品
 ### python
-- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://github.com/redcomet88/movie-rec)
-- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套](https://github.com/redcomet88/job-rec)
+- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1R34y1C7N5?share_source=copy_web)
+- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV19S4y1S7pX?share_source=copy_web)
 - 3 【推荐算法+可视化】vue+flask 汽车销售大数据源码 协同过滤+爬虫 全套 *（开发中）*
 - 4 【推荐算法+可视化】vue+flask 图书大数据源码 协同过滤+爬虫 全套 *（开发中）*
 - 5 【推荐算法+可视化】vue+flask 旅游大数据源码 协同过滤+爬虫 全套 *（设计中）*

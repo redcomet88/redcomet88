@@ -9,11 +9,11 @@
   - 
 ## 项目
 ### python·vue+flask 【前后端分离·大数据方向】
-- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1R34y1C7N5?share_source=copy_web)
-- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV19S4y1S7pX?share_source=copy_web)
-- 3 [【推荐算法+可视化+图像识别+支付宝沙箱支付】vue+flask 汽车销售大数据源码 协同过滤+爬虫 全套 ](https://www.bilibili.com/video/BV1AF411s7X4/)**
+- 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1R34y1C7N5?share_source=copy_web)    :point_left: 已发布，链接
+- 2 [【推荐算法+可视化+图像识别】vue+flask 求职招聘大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV19S4y1S7pX?share_source=copy_web) :point_left: 已发布，链接
+- 3 [【推荐算法+可视化+图像识别+支付宝沙箱支付】vue+flask 汽车销售大数据源码 协同过滤+爬虫 全套 ](https://www.bilibili.com/video/BV1AF411s7X4/) :point_left: 已发布，链接
 - 4 【推荐算法+可视化+支付宝沙箱支付+短信验证码】vue+flask 外卖订餐大数据源码 协同过滤+爬虫 全套 *（爬虫开发中）*
-- 5  [【推荐算法+可视化+百度热力图+百度地图集成】vue+flask 旅游大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1PS4y1m7DQ/) **
+- 5  [【推荐算法+可视化+百度热力图+百度地图集成】vue+flask 旅游大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1PS4y1m7DQ/) :point_left: 已发布，链接
 - 6 【推荐算法+可视化+音乐播放+短信验证码】vue+flask 音乐大数据源码 协同过滤+爬虫 全套 *（前端设计中、爬虫开发完成）*
 - 7 【推荐算法+可视化+支付宝沙箱支付+LSTM+BP神经网络情感分析】vue+flask 图书大数据+书评+情感分析源码 协同过滤+爬虫 全套 *（算法开发中）*
 - 8 【推荐算法+可视化+支付宝沙箱支付+LSTM+BP神经网络情感分析】vue+flask 影评大数据+情感分析源码 协同过滤+爬虫 全套 *（算法开发中）*

@@ -9,16 +9,16 @@
   - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775)
   - CSDN博客：  [前往](https://blog.csdn.net/roccreed?type=blog)
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
-
+---
 ## 2025 项目案例
 
-vue + flask类
+### vue + flask类
 - F061 [vue+flask大模型写诗诗词推荐与可视化系统](https://github.com/redcomet88/f061_poet) （混合推荐算法、大模型对话)
 - F068 [vue+flask山西非遗文化遗产图谱可视化系统](https://www.bilibili.com/video/BV1LitbzbEpd) （知识图谱、可视化、文化类项目）
+
+---
  
 ## 免费学习
-# 免费学习
-
 目前开了两个坑：
 
 ## 一、 Scrapy 爬取旅游景点相关数据 ⛩

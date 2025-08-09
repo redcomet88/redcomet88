@@ -7,7 +7,7 @@
 - 📫 怎么找到我
   - 
   - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775)
-  - CSDN博客：  [前往]([https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0](https://blog.csdn.net/roccreed?type=blog))
+  - CSDN博客：  [前往](https://blog.csdn.net/roccreed?type=blog)
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
 
 ## 2025 项目案例

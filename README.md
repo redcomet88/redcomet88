@@ -1,13 +1,17 @@
 【允许转载】
 
-- 👋 Hi, 我是一个专注于算法+可视化的开发工程师
+- 👋 Hi, 我是一个专注于算法+可视化的开发工程师（15年开发经验）
 - 👀 我擅长的语言有  Vue、Java、Python
-- 🌱 我主要专精的领域有 各类数据挖掘和数据分析算法、可视化等
-- 📫 How to reach me 
+- 🌱 专业助攻计算机类毕设、比赛、大创等
+- 🌱 擅长： 大数据 、 大模型 、 可视化 、 机器学习 、 算法等  
+- 📫 怎么找到我
   - 
+  - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775)
+  - CSDN博客：  [前往]([https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0](https://blog.csdn.net/roccreed?type=blog))
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
-  - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0)
 
+## 2025 项目案例
+待更新
  
 ## 免费学习
 # 免费学习

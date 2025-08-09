@@ -11,7 +11,10 @@
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
 
 ## 2025 项目案例
-待更新
+
+
+F061 [vue+flask大模型写诗诗词推荐与可视化系统](https://github.com/redcomet88/f061_poet) （混合推荐算法、大模型对话)
+F068 [vue+flask山西非遗文化遗产图谱可视化系统](https://github.com/redcomet88/f068_feiyi) （知识图谱、可视化、文化类项目）
  
 ## 免费学习
 # 免费学习

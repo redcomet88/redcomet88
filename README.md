@@ -13,8 +13,12 @@
 ### 🍑 vue + flask类
 - F061 [vue+flask大模型写诗诗词推荐与可视化系统](https://github.com/redcomet88/f061_poet) （混合推荐算法、大模型对话)
 - F068 [vue+flask山西非遗文化遗产图谱可视化系统](https://www.bilibili.com/video/BV1LitbzbEpd) （知识图谱、可视化、文化类项目）
+- F069 [vue+flask基于规则apiori算法的求职推荐系统]() ()
+  
 ### 🍈 vue + django类
+- D003 [vue+django 大模型心理学智能诊断评测系统干预治疗辅助系统、智慧心理医疗、带知识图谱]() (心理类、大模型、图谱)
 - D011 pro [vue+django 大模型道路交通流量LSTM预测流量|大模型出行建议|图谱可视化系统](https://www.bilibili.com/video/BV1txMmzJEtm) （LSTM 深度学习预测、 大模型、 知识图谱、可视化）
+
 ### 🍉 vue + springboot类
 ---
  

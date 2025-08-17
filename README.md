@@ -6,7 +6,7 @@
 - 🌱 团队情况： 90%的项目由麦麦本人亲自完成、团队成员来自中科大、西北工大、伊利诺伊香槟分校等。 
 - 📫 怎么找到我
   - 
-  - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775)
+  - B站账号 《 麦麦大数据 》，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775)
   - CSDN博客：  [前往](https://blog.csdn.net/roccreed?type=blog)
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
 ---

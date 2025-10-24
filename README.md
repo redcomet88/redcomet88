@@ -10,6 +10,9 @@
   - CSDN博客：  [前往](https://blog.csdn.net/roccreed?type=blog)
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
 ---
+## 联系方式
+
+---
 ## 🍇 2025 项目案例  🔥🔥🔥🔥🔥
 ### 🍑 vue + flask类
 - F001 [Vue+Flask旅游数据可视化大屏系统 前后端分离 大数据分析]() （)
@@ -27,8 +30,6 @@
 - D020 [vue+Django海产品推荐与价格预测系统、双推荐+三种价格预测对比+知识图谱]()
 
 ### 🍉 vue + springboot类
----
-## 联系方式
 
 
 --- 

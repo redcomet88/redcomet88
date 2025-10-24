@@ -11,7 +11,7 @@
   - 我的个人网站： [麦麦空间](http://www.coderobot.top)
 ---
 ## 联系方式
-![QQ](./QQ.png)
+![QQ](./QQ.png){width: 600px; height: 300px}
 ---
 ## 🍇 2025 项目案例  🔥🔥🔥🔥🔥
 ### 🍑 vue + flask类
